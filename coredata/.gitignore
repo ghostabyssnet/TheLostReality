@@ -8,6 +8,8 @@
 *.bone
 *.skel
 *.log
+terminal-history.txt
+test.txt
 build/
 database/
 datasets/

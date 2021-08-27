@@ -1,5 +1,7 @@
+REM mass push script by yo boy
+
 git push
 git submodule foreach git push origin main
 
 
-# git push --recurse-submodules=on-demand
+REM git push --recurse-submodules=on-demand

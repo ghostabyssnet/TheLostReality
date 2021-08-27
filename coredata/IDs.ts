@@ -6,6 +6,7 @@ export const TLRCLASSES_SUMMONING_SKILL : uint32 = GetID("SkillLineAbility","TLR
 export const TLRCLASSES_PLAGUE_SKILL : uint32 = GetID("SkillLineAbility","TLRClasses","plague-skill");
 export const TLRCLASSES_BONEWORKS_SKILL : uint32 = GetID("SkillLineAbility","TLRClasses","boneworks-skill");
 export const TLRCLASSES_ROGUE_TUMBLE : uint32 = GetID("Spell","TLRClasses","rogue-tumble");
+export const TLRCLASSES_ROGUE_PREPARATION : uint32 = GetID("Spell","TLRClasses","rogue-preparation");
 export const TLRHOUSING_HOUSING_SKILL : uint32 = GetID("SkillLineAbility","TLRHousing","housing-skill");
 export const TLRHOUSING_GMTEST_HS_TABLE_HUMAN : uint32 = GetID("gameobject_template","TLRHousing","gmtest-hs-table-human");
 export const TLRHOUSING_GMTEST_HS_BOTTLE_GREEN : uint32 = GetID("gameobject_template","TLRHousing","gmtest-hs-bottle-green");
