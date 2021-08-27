@@ -1,0 +1,6 @@
+bin/
+node_modules/
+!coredata/
+!modules/
+log.txt
+node.yml
