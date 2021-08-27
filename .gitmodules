@@ -1,0 +1,9 @@
+[submodule "modules/TLRClasses"]
+	path = modules/TLRClasses
+	url = https://github.com/nullcst/TLRClasses
+[submodule "modules/TLRCreatures"]
+	path = modules/TLRCreatures
+	url = https://github.com/nullcst/TLRCreatures
+[submodule "modules/TLRExpansion"]
+	path = modules/TLRExpansion
+	url = https://github.com/nullcst/TLRExpansion

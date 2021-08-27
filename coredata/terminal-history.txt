@@ -1,0 +1,27 @@
+build release
+ws realm send tswow account create myuser mypassword
+realm send tswow account create myuser mypassword
+realm send tswow account delete myuser
+realm send tswow account create admin admin
+realm send tswow account set gmlevel myuser 3 -1
+realm send tswow account set gmlevel admin 3 -1
+module create TLRClasses --datascripts --assets --livescripts
+odule create TLRCreatures --datascripts --assets --livescripts
+module create TLRCreatures --datascripts --assets --livescripts
+module create TLRExpansion --datascripts --assets --livescripts
+help
+clean scripts
+clean
+clean typescript
+stopserver
+stop
+ws
+ws exit
+ws leave
+ws quit
+quit
+build scripts
+build data client
+build data
+git push
+check
