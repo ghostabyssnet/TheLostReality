@@ -8,9 +8,11 @@
 *.bone
 *.skel
 *.log
+*.dmp
 terminal-history.txt
 test.txt
 build/
 database/
 datasets/
+coredata/realms/tswow/Crashes/
 tsconfig.json
