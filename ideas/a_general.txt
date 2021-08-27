@@ -1,0 +1,23 @@
+tlr maxlevel 65
+tlr outlands 65-70
+
+necromancer AH
+ranger AH
+starcaller A
+spellbreaker A
+blademaster H
+witch doctor H
+
+I'd add tinker but i'd wait for gnomes and goblin expac
+
+spellbreaker
+
+use throwables and glaives
+
+# quest
+
+sylvanas and tyrande appear (if not already spawned), walking forward. they talk, you talk to (the one in your faction), then to wrathion again
+
+give phoenix to elemental mages
+
+cleanse (every man for himself) for all races

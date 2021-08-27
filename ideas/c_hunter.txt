@@ -1,0 +1,3 @@
+remove marksmanship
+
+move all marksmanship spells to beast mastery and survival (half half?)

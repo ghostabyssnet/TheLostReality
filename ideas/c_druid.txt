@@ -1,0 +1,13 @@
+balance removed
+
+balance -> restoration:
+
+innervate 29166
+entangling roots 339 1062 5195 5196 9852 9853 26989 53308
+hibernate 2637 18657 18658
+barkskin 22812
+nature's grasp 16689 16810 16811 16812 16813 17329 27009 53312
+thorns 467 782 1075 8914 9756 9910 26992 53307 
+soothe animal 2908 8955 9901 26995 
+faerie fire 770
+force of nature 33831

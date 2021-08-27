@@ -1,0 +1,3 @@
+remove restoration (give to witch doctor)
+
+keep lesser healing wave, transfer to elemental

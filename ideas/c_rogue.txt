@@ -1,0 +1,314 @@
+remove subtlety
+
+move subtlety spells to -> assassination 
+
+// hemorrage has a nice icon, make it some sort of Garrote passive talent
+
+-> Subtlety (removed) <-
+
+Spells
+
+Talent Tree
+    Relentless Strikes (14179, 58422, 58423, 58424, 58425)
+    // move to Combat?
+    // low prio
+    
+    Master of Deception (13958, 13970, 13971)
+    // move to Assassination?
+    // medium prio, add as secondary effect to a talent
+
+    Opportunity (14057, 14072) == 1
+    // move to Assassination?
+    
+    Serrated Blades (14171, 14172, 14173) == 2
+    // move to Assassination
+    
+    Improved Ambush (14079, 14080) == 4
+    // move to Assassination 
+    
+    Initiative (13976, 13979, 13980) == 3
+    // move to Assassination
+    
+    Setup (13983, 14070, 14071)
+    // move to Combat
+    
+    Dirty Deeds (14082, 14083) == 5
+    // move to Asssassination
+    
+    Master of Subtlety (31221, 31222, 31223) == 6
+    // move to Assassination
+    // combo with Master of Deception, join them
+    
+    Cheat Death (31230)
+    // keep in mind this exists, rogue is already too buffed I ain't giving them
+    // shit rn
+    
+    Sinister Calling (31216, 31217, 31218, 31219, 31220) == 7
+    // move to Assassination
+    
+    Waylay (51696) == 8
+    // move to Assassination
+    // make it proc on ambush, rupture and garrote, no backstab
+    
+    Shadowstep (36554)
+    // level 20 or 30 quest, moved to assassination as a spell
+    
+    Honor Among Thieves (51698, 51700, 51701)
+    // move to Assassination or Combat idk
+    
+    Slaughter from the Shadows (51708, 51709, 51710, 51711, 51712) == 9
+    // move to Assassination
+    
+    
+-> Assassination <-
+
+Spells
+    Ambush -> Buff
+    No longer needs to be behind the target
+    
+    Cheap Shot -> Nerf
+    Duration: 4 -> 3 seconds
+    // now passively applies garrote so it should be nerfed a bit
+    
+    Deadly Throw -> Buff
+    Cost: 35 -> 15 Energy
+    Now interrupts the target for 3 seconds
+    // from Throwing Specialization
+    
+    Dismantle -> Nerf
+    Duration: 10 -> 5 seconds
+    
+    Envenom -> Removed
+    // garbo
+    
+    Expose Armor -> Buff
+    Duration: [6, 12, 18, 24, 30] -> [10, 20, 30, 40, 60]
+    
+    Garrote -> Removed
+    Is now a passive effect on talent tree (buffs Cheap Shot and Kidney Shot)
+    
+    Slice and Dice -> Moved to Combat
+    
+    Stealth -> Buff, moved from Subtlety
+    No longer reduces movement speed
+    
+    NEW Onslaught of Shadows (Talent)
+        Fade into invisibility for 2 seconds every 3 seconds, up to 3 times.
+        // disable sap while buffed?
+    
+    Sap -> Moved from Subtlety
+    Distract -> Moved from Subtlety
+    Blind -> Moved from Subtlety
+    Pick Pocket -> Moved from Subtlety
+    Detect Traps -> Moved from Subtlety
+    Vanish -> Moved from Subtlety
+    
+    Cloak of Shadows -> Removed 
+    // maybe moved from Subtlety but rogue is already too safe
+    
+    
+Talent Tree
+    Improved Eviscerate (14162, 14163, 14164) -> Removed
+    // redundant, point sink, gave Malice its stats
+    
+    Remorseless Attacks (14144, 14148) -> Removed
+    // garbo
+    
+    Malice (14138, 14139, 14140, 14141, 14142) -> Buff
+    Rank 1, 2:
+        Crit bonus: [1, 2]% -> [3, 5]%
+        NEW EFFECT: Increases Eviscerate damage by [10, 20]%
+    Rank 3, 4, 5 -> Removed
+    
+    === 2
+    
+    Ruthlessness (14156, 14160) -> Removed
+    // garbo, possibly add hemorrage in here
+    
+    === 3
+    
+    Improved Expose Armor (14168, 14169) -> Removed
+    // expose armor is already buffed
+    
+    === 4
+    
+    Vile Poisons (16513, 16514, 16515) -> Moved to Tier 6
+    
+    === 5
+    
+    Fleet Footed (31208, 31209) -> Removed
+    
+    Cold Blood (14177) -> Removed, change to passive
+    
+    Seal Fate (14186, 14190, 14193, 14194, 14195) -> Moved from Tier 6
+    
+    Quick Recovery (31244, 31245) -> Removed
+    
+    === 6
+    
+    Seal Fate (14186, 14190, 14193, 14194, 14195) -> Moved to Tier 5
+    
+    Vile Poisons -> Added
+    Requires 5 points in Improved Poisons
+    // remove the "envenom" part, spell removed
+    
+    === 7
+    
+    Deadened Nerves (31380, 31382, 31386) -> Removed
+    
+    === 8
+    
+    Focused Attacks (51634, 51635, 51636) -> Buff
+    Chance: [33, 66, 100]% -> 100%
+    Energy Restored: 2 -> [2, 3, 5]
+    
+    Master Poisoner (31226, 31227, 58410) -> Moved from Tier 9
+    Requires 3 points in Vile Poison
+    // remove the envenom part
+    
+    === 9
+    
+    Master Poisoner (31226, 31227, 58410) -> Moved to Tier 8
+    
+    Turn the Tables (51627, 51628, 51629) -> Removed
+    // maybe give it to Combat?
+    
+    === 10
+    
+    Cut to the Chase (51664, 51665, 51667, 51668, 51669) -> Removed
+    // icon is cool af tho use it for something else
+    
+    === 11
+    
+    Hunger for Blood (51662) -> Removed
+    // maybe rework it into something that increases damage against bleeding
+    // targets by %
+    
+NEW
+    - Envenom Talent
+    Every time you apply Instant Poison, there's a [2, 4, 6, 8, 10]% chance that
+    another random poison from the same level will be applied as well
+    
+
+-> Combat <-
+
+Spells
+    Backstab -> Moved to Assassination
+    // combat already has Sinister Strike
+    
+    Gouge -> Nerf
+    No longer grants a combo point
+    Cooldown: 10 -> 20
+    Duration: 5.5 -> 6 seconds
+    // make gouge more of an escape tool
+    
+    Sinister Strike -> Buff
+    Cost: 40 -> 20 Energy
+    // make it more spammable
+    
+    Slice and Dice -> Buff, moved from Assassination
+    Rank 1 - Attack Speed: 20% -> 40% // maybe give it to rogue's level 10 quest
+    Rank 2 -> Removed
+    Duration: [9, 12, 15, 18, 21] -> [15, 20, 30, 40, 50]
+    // slice and dice should be used as a opener in an extended fight (i.e boss)
+    // if you think you won't kill anything so soon. combo points are more important now
+    // so players should be careful not to waste them on this, even if buffed
+    
+    Blade Flurry -> Buff
+    No longer costs Energy
+    
+    Shiv -> Buff
+    Cost: 35 -> 60
+    No longer in the GCD
+    
+    Shadowstep -> Buff, moved from Subtlety
+    Now stuns target for 1 second
+    
+    Safe Fall -> Moved from Subtlety
+    
+    Killing Spree -> Removed
+    // it ain't that bad but rogue already has too many gapclosers
+    
+    NEW Tumble
+        Dashes forward, applying Preparation for 2 seconds. If Fan of Knives
+        is used while Preparation is active, it costs no energy, but consumes
+        the effect.
+        Cost: 25
+        Cooldown: 1, off GCD
+    
+    NEW Shadow Assault (Talent) x11
+        Fade into shadows, becoming invulnerable for 1 second. Then, reappear behind
+        your target, marking them. After 3 seconds, 25% of all damage the target has
+        received from you will be dealt again as physical damage.
+        Cost: 50 Energy
+        Cooldown: 2 minutes
+    
+Talent Tree
+    Improved Gouge (13741, 13793, 13792) -> Removed
+    // gouge already has increased duration, frees up space for more interesting talents
+    
+    Improved Sinister Strike (13732, 13863) -> Removed
+    // this talent would always be picked as combat no longer has backstab, waste of space
+    // also sinister strike has been buffed
+    
+    === 2
+    
+    Improved Slice and Dice (14165, 14166) -> Removed
+    // also buffed, freeing up space
+    
+    Precision (13705, 13832, 13843, 13844, 13845) -> Buff
+    Rank 1 and 2: [1, 2]% -> [3 -> 6]%
+    Rank 3, 4, 5 -> Removed
+    
+    === 3
+    
+    Endurance (13742, 13872) -> Buff
+    Rank 1:
+        Sprint/Evasion CDR: 30 -> 60
+        Now removes all movement impairing effects when using Sprint (Imprv. Sprint)
+    Rank 2 -> Removed    
+    
+    === 4
+    
+    Improved Sprint (13743, 13875) -> Removed
+    
+    === 5
+    
+    Mace Specialization (13709, 13800, 13801, 13802, 13803) -> Removed?
+    
+    === 6
+    
+    Weapon Expertise (30919, 30920) -> Buff
+    NEW EFFECT: Now also reduces Blade Flurry cooldown by [30, 60]
+    
+    === 7
+    
+    Adrenaline Rush (13750) -> Removed
+    // adding a passive effect later
+    
+    === 8
+    
+    Throwing Specialization (5952, 51679) -> Removed
+    // added to Deadly Throw
+    
+    === 9
+    
+    Savage Combat (51682, 58413) -> Removed
+    // I want to add a new talent in a previous tier that does pretty much the same
+    // thing. this is too deep in the tree for such an effect
+    
+    === 10
+    
+    Killing Spree (51690) -> Removed
+    // idk move this thing somewhere else lmao garbo spell for this tier
+    
+--------------
+
+New Talents
+
+    IDEA Venomous Strikes
+        Empowers your weapons for two seconds after using Sinister Strike. While
+        active, your next Shiv will not cost energy [or block critical strikes],
+        but it will not generate combo points.
+        // maybe remove the [block] part if too strong
+        

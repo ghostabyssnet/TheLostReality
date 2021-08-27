@@ -1,0 +1,194 @@
+
+
+gameplay changes first, then gameplay additions, then story
+
+~ Intro
+
+...
+
+I feel like World of Warcraft (and any media or art form in general)
+needs a central figure like Hideo Kojima, YoshiP, IceFrog or Zack Snyder that has
+their vision respected by the developers.
+Take Snyder for instance: it doesn't matter if you liked his version
+of Justice League or not, it's undeniable that it was a huge success.
+And, to be fair, it has some really great scenes
+    [ flash going back in time ]
+but it also shows that Zack Snyder is a complete hack when it comes
+to music
+    [ music subtitle screenshot (wonder woman scene for instance) ]
+so if we could go back in time and make the movie right, I'd trust
+him with everything but the music department, and we would have a
+pretty good movie.
+
+Icefrog is also a very relevant figure. The DotA community likes him way more than
+the League of Legends community has ever embraced a single developer. He's in
+charge (or the scapegoat) for anything gameplay related, including balance. And it
+has worked out pretty well. Even when IceFrog is wrong, you can see the reason why
+he tried some updates. I also respect him a lot for the fact that he keeps himself
+anonymous, I think some people at Blizzard
+    [ show mccree character, afrasiabi npcs, twitter index page ]
+should take a page from that.
+
+This expansion is what I would do if I was that figure. It's not
+meant to be taken as an absolutely serious project, I'm doing this
+for study purposes... _mostly_.
+
+...
+
+- Direction
+
+Freedom: it's the cornerstone of this project. The idea is to let casual players
+enjoy casual and hardcore content, and let hardcore players enjoy hardcore *AND*
+casual content. Do whatever you find fun, whenever you want.
+
+This means removing very few stuff (everything 'till Shadowlands). It sounds
+counterproductive, but, as I will explain below, it just works(TM). Instead of
+alienating players who love the classic WoW experience (with its worldbuilding,
+numerous quests, exploring, dungeoneering and so on) or players who love the
+modern WoW experience (with its lobbies, organized content, difficult encounters
+and so on), we join both worlds and let the players do exactly what they want.
+
+To explain how I would do so, I need to spoil a bit of the story:
+
+- Reality Ender
+
+Zovaal wins, throwing both players and Warcraft characters into... something else. 
+Another reality, to be precise. However, players would be able to freely walk
+between this new reality and the old one.
+
+The Old Reality would have everything till patch 9.something. All your transmogs,
+all your gold, all your items, mounts, anything you had. No resets, no deletes, 
+nothing that would alienate people who really enjoyed the last 10 years of 
+retail WoW. If you're new to the game and you wanna do old content, you can do 
+whatever you want, whenever you want. It's there.
+
+The New Reality would have completely new characters, for everyone. Not the same
+mistake Cataclysm had on release. Zero gold, no mounts, nothing. Old players
+would still be able to show off their accomplishments with achievments and other
+systems (or simply by going back to the old reality), and new (and returning)
+players would have the experience of a F R E S H realm.
+
+Even monetarily, this would be a good change: it would bring classic players back,
+even if it's for a test-drive, and could possibly merge both communities, or at
+least many of its players. Remember: we're not designing the game around the 
+retail playerbase, nor the classic one. We're designing it for both, by making most
+content optional. It's a reverse "Torghast" or "Apexis Crystals" situation.
+
+To prove my point even further, let's deconstruct modern WoW's greatest feature: Dungeons and Raids.
+
+- Dungeons
+
+Mythic 20-man content would be removed, Normal and Heroic would go back to being the norm.
+
+I know that sounds  
+...
+
+
+- Classes
+
+...
+
+The Necromancer
+
+...
+based on [...] (warcraft 3 etc)
+
+TSWoW has a tutorial for custom classes and it already had a Necromancer,
+so I just filled in the blanks and had a functioning class in no time. 
+
+...
+
+- Gameplay
+
+...
+
+Housing...
+
+...
+
+- Story
+
+...
+
+Wrathion...
+
+...
+
+Tyrande and Sylvanas would be more relevant to the story. In fact, the idea is to make
+every single race leader more impactful to the narrative, instead of basically Varian
+and Thrall.
+
+They're the only ones who know _partly_ what happened, as Wrathion told them. However,
+this new reality has slight changes from the old one, so they can't just reveal
+everything to everyone _just yet_. Both of the leaders would need to act in the shadows,
+trying to nudge things _just_ in the right direction.
+[ Random scenes of house of cards ]
+Somewhat like House of Cards, maybe. I think it would be ridiculously cliché if those two
+decided to do things in order to "destroy the other faction", I find that really, really
+stupid at this point. It's my same gripe with Jaina in BFA: everyone loved it, but I found
+it kinda silly. Jaina saw Thrall, an orc, save the world like what? Two or three times by then?
+[ Warcraft 3 thrall, green jesus cataclysm thrall ] 
+And then "OH DADDY SORRY I DIDN'T KILL THE GREEN GUYS, YOU WOULD BE ALIVE FOR A FEW MORE YEARS
+BEFORE DEATHWING BURNED US ALL THE FUCK OUT"
+[ jaina warbringers cinematic ]
+Now, I GET WHY she's like that, okay? I understand the whole deal with Garrosh and how it would
+blind someone. Just not Jaina, not the Warcraft 3 Jaina, at least. Hell, not ANY archmage with
+arcane intellect and wisdom.
+
+Most quests that deal with the Old Reality would have players talk to either Tyrande or Sylvanas,
+and that would make them walk around quite a bit. I don't think the community would mind walking
+around, even more so if there's a boat from Stormwind to Darnassus. Maybe it does suck and, if
+it does, then we put some portals or something.
+[ on the screen: OH GOD PLEASE NO ]
+To be fair, I think Blizzard vastly underestimated people's patience. Not everyone has ADHD,
+specially MMO players. I really don't like teleporting people around left and right, and it's one
+of my main problems with LFG and LFR.
+
+And I know, I know, you guys can't stand Sylvanas anymore. I understand that. However, this wouldn't
+be the "self insert waifu"
+[ pic of that weird guy as nathanos, random sylvanas vids]
+Sylvanas, it would be the real deal. Arthas shootin', hateful, Machiavelli Sylvanas.
+[ vid of sylvanas in warcraft 3 ]
+
+She's also fit for the job. After all, we'd need one scheming motherfucker to be able to nudge things
+in the right direction, without being sloppy or being caught. Hell, you could just say that Zovaal
+rewriting the reality made her smarter, or something... or just made her as smart as she was back then.
+
+[ CONTENT ]
+The expansion would start with the max level being 65, and end with it being 70. It would be the first
+expansion to do so, and that's because it would be more focused on single patches. We'd also make sure
+that old content doesn't get wasted, only easier. Somewhat like Final Fantasy 14.
+[ FFXIV stuff ]
+
+Things would start pretty normal, but slightly uncanny: some quests would be moved, like Mankrik's wife
+or some "collect X" objectives. Dungeons would be harder for the most part, as if the creatures got
+smarter or something... which they probably *DID*. Some quests wouldn't exist anymore, but there would be
+some new quests to fill in. Strange.
+[ dungeon scenes, questing scenes in barrens ]
+
+Then high level dungeons would be considerably more difficult, and have different enemies than they had in
+Old Azeroth. This is where the New Reality cascades its effects, it comes to a point where things are 
+unrecognizable: Maraudon is no longer open, Dire Maul is no longer filled with ogres, etc. The world is now
+strange, alien. It's not where you grew up, even though it seems like it.
+[ dungeons ]
+ 
+By the end, things would be challenging for today's standards, and the entire world would flip on it's head:
+Naxxramas would never have happened, as Tyrande/Sylvanas would give the players a quest to deal with Kel'Thuzad
+in Stratholme (or Scholomance, or anywhere else, who cares) by surprise and he would never be able to rally his forces.
+
+Onyxia would be killed on the spot by the Alliance heroes (or maybe Tyrande), while she's hiding herself 
+as Lady Prestor.
+
+Players would still need to deal with Ragnaros, but BOY would he be strong, and have new tricks. Molten Core would 
+also be an open zone, and he'd be an world boss, just like Thunderaan. Something like that.
+I didn't think too much about the dungeons and raids lineup, but you get the idea.
+
+
+
+
+
+[ THE BURNING CRUSADE ]
+So, how would expansions work? We're back in old Azeroth, but we know everything that would happen.
+That's exactly what would make this whole thing cool: the Butterfly Effect.
+[ math ramifications idk ]
+You see, 

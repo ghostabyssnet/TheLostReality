@@ -1,0 +1,21 @@
+balance -> starcaller
+marksmanship -> starcaller
+
+- comments:
+
+this class was supposed to be a warden/potm hybrid, ended up being a balance tyrande/warcraft 3 tyrande hybrid. warden warrants a single class
+wrath (spell) is whack
+
+- end
+
+balance:
+
+moonfire
+8921 8924 8925 8926 8927 8928 8929 9833 9834 9835 26987 26988 48462 48463 
+
+starfall
+48505 53199 53200 53201
+(make it channeling?)
+
+starfire
+2912 8949 8950 8951 9875 9876 25298 26986 48464 48465

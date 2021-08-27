@@ -1,0 +1,44 @@
+cleanse (every man for himself) for all races
+faster day/night cycle. maybe 4 times a day
+
+housing gobjects:
+
+192245 argent stone wall
+
+export declare type gameobject_templateCreator = {
+    entry?: mediumint;
+    type?: tinyint;
+    displayId?: mediumint;
+    name?: varchar;
+    IconName?: varchar;
+    castBarCaption?: varchar;
+    unk1?: varchar;
+    size?: float;
+    Data0?: int;
+    Data1?: int;
+    Data2?: int;
+    Data3?: int;
+    Data4?: int;
+    Data5?: int;
+    Data6?: int;
+    Data7?: int;
+    Data8?: int;
+    Data9?: int;
+    Data10?: int;
+    Data11?: int;
+    Data12?: int;
+    Data13?: int;
+    Data14?: int;
+    Data15?: int;
+    Data16?: int;
+    Data17?: int;
+    Data18?: int;
+    Data19?: int;
+    Data20?: int;
+    Data21?: int;
+    Data22?: int;
+    Data23?: int;
+    AIName?: char;
+    ScriptName?: varchar;
+    VerifiedBuild?: smallint;
+};

@@ -1,0 +1,32 @@
+todo:
+
+housing
+    x add table for pre-alpha
+    do canbuild buff logic
+    create invis creatures
+    attach creatures to gameobjects
+    ! do deletion/removal logic
+        // temp gameobjects now get deleted, working on permanent ones
+    x change to items
+    add chair for alpha
+    change spell/item database to SQL
+    change logic to grab the SQL entries
+
+learn:
+
+creatures:
+    x create
+    x spawn
+    modify
+    delete
+    
+gameobjects:
+    x create
+    x spawn
+    modify
+    delete
+    
+spells:
+    create
+    modify
+    delete
