@@ -12,21 +12,102 @@ housing
     change spell/item database to SQL
     change logic to grab the SQL entries
 
-learn:
-
-creatures:
-    x create
-    x spawn
-    modify
-    delete
+website
+    home
     
-gameobjects:
-    x create
-    x spawn
-    modify
-    delete
+    classes = 16 8x8
+        warrior
+        rogue
+        druid
+        shaman
+        paladin
+        priest
+        mage
+        warlock
+        -------
+        necromancer
+        ranger
+        spellbreaker
+        starcaller
+        witch doctor
+        tinker
+        demon hunter
+        death knight
+        
+    alt leveling -> for every max level char you have, you gain more xp.
+        I want players to experience every new zones and their content if they want to, but I will not force them
+        overall I'm making every race's leveling experience as distinct as possible, to avoid player burnout
+        
+    races = 12 6x6
+        human
+        dwarf
+        night elf
+        draenei
+        high elf
+        gnome
+        --------
+        orc
+        undead
+        tauren
+        troll
+        blood elf
+        goblin
     
-spells:
-    create
-    modify
-    delete
+    professions = 16 8x8
+        alchemy
+        blacksmithing
+        enchanting
+        engineering
+        mining
+        skinning
+        fishing
+        first aid
+        ---------------
+        jewelcrafting
+        leatherworking
+        tailoring
+        carpentry
+        herbalism
+        logging
+        cooking
+        [COMING ? SOON]
+    
+    zones
+    
+    dungeons
+        deadmines
+            on vancleef: instead of fighting him, you talk to him -- "this is unnecessary, vancleef, prestor manipulated you", you explain whats up
+            a dragonspawn appears mad af and you guys (including vancleef) fight him as final boss
+            its quest will give you a dragonbane scroll that you can use to seal its power and reduce his difficulty, if you don't use it its hardmode
+            
+        prime: max level dungeons, pre-raid bis loot and cool profession supplies
+        mythic: 10-man prime dungeons, some low-tier raid boss equivalent gear, cool cosmetics, more droprate
+    
+    raids
+        10 man n/h prime
+        20 man n/h prime, drops cosmetics and cool mounts (ony/sartharion mount for instance), legendary pieces (shadowmourne for instance)
+        40 man mythic, drops 8 n/h loot, huge cosmetics (al'ar, invincible, etc) and legendaries. overall optional
+    
+    pvp
+        dishonor 5+lvl diff
+        coward debuff
+        intent on non-aoe
+        
+        rated warsong gulch
+learn
+    creatures:
+        x create
+        x spawn
+        modify
+        delete
+        
+    gameobjects:
+        x create
+        x spawn
+        modify
+        delete
+        
+    spells:
+        x create
+        x modify
+        delete

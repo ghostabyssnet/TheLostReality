@@ -3,16 +3,30 @@ tlr outlands 65-70
 
 necromancer AH
 ranger AH
+spellbreaker AH // its bloodelves after all
+paladin A // give warriors to BEs, remove pally
 starcaller A
-spellbreaker A
-blademaster H
 witch doctor H
 
-I'd add tinker but i'd wait for gnomes and goblin expac
+warriors
+    HUMAN -> KNIGHTHOOD Warrior // based on Lothar
+    DWARF -> STORMHAMMER Warrior // based on the Mountain King
+    ORC -> BLADEMASTERY Warrior // based on the Blademaster
+    TAUREN -> PULVERIZATION Warrior // based on Warcraft 3's Tauren
+    
+// blood elf -> Blood Mage? idk
+
+expansion
+    1.2 goblins and gnomes
+        gnome/goblin races
+        tinker class for gnomes and goblins
+    2.0 the burning crusade
+        warden TBA
+        demon hunter TBA
+
 
 spellbreaker
-
-use throwables and glaives
+    use throwables and glaives
 
 # quest
 
