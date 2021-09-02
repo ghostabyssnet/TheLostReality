@@ -1,16 +1,44 @@
 todo:
 
+videos
+    when characters speak, pull up warcraft 3's (literally that design) cinematic talk bar and
+    replace the head with the character's speaking head as a loop (use wmv its ur problem,
+    maybe export avi works?)
+
+logging/carpentry
+    world\generic\human\passive doodads\firewood\firewoodpile03.m2 as pickup
+
 housing
     x add table for pre-alpha
+    x change to items
     do canbuild buff logic
     create invis creatures
     attach creatures to gameobjects
     ! do deletion/removal logic
         // temp gameobjects now get deleted, working on permanent ones
-    x change to items
     add chair for alpha
     change spell/item database to SQL
     change logic to grab the SQL entries
+    world\wmo\azeroth\collidable doodads\allianceshrine could be graveyard (like wc3)
+    add dummies as well
+    let players have pets laying around (friendly critters)
+    do peasant logic
+        ally
+        horde
+    4990 stormwind test garrison areaID
+    wood
+        node: world\generic\human\passive doodads\peasantlumber\peasantlumber01.m2
+        or: world\generic\human\passive doodads\lumberpiles\deadminelumberpilesmall.m2
+        dropoff: world\expansion02\doodads\generic\tuskar\logs\ts_log_pile_01.m2
+        
+    mine 
+        node: world\skillactivated\tradeskillnodes\iron_miningnode_01.m2
+        dropoff: world\generic\alliance\chest\alliancechest_01.m2 for ally
+        dropoff: world\generic\horde\chest\hordechest_01.m2 for horde
+        
+    farm
+        node: world\skillactivated\tradeskillnodes\bush_bloodthistle.m2
+        dropoff: world\generic\passivedoodads\furniture\containers\sack01 (and 02)
 
 website
     home
@@ -34,9 +62,27 @@ website
         demon hunter
         death knight
         
+        [warden/troll axethrower]
+        
     alt leveling -> for every max level char you have, you gain more xp.
         I want players to experience every new zones and their content if they want to, but I will not force them
         overall I'm making every race's leveling experience as distinct as possible, to avoid player burnout
+        
+    special class:race combos -> unlocks an additional talent tree for your class depending on your race
+        warrior
+            human -> knighthood
+            orc -> blademastery
+            dwarf -> stormhammer
+            tauren -> pulverization
+            
+        mage
+            human -> arch
+            blood elf -> blood
+            
+        priest
+            troll -> shadow
+            high elf -> shadow
+            night elf -> lunar
         
     races = 12 6x6
         human
@@ -71,17 +117,46 @@ website
         logging
         cooking
         [COMING ? SOON]
+        
+    lore
     
     zones
+        quests
+        whitemane as npc in stormwind
+            able to talk to her, when you do:
+                [glare intensely at her]
+                "what is it bruv"
+                "weren't you high inquisitor of the scarlet crusade?"
+                "yea fam tyrande cured me from my insanity tho, the crusade thought I turned infected so they chased me out lmao crazy stuff"
+                "tyrande...?"
+                ... after crusade quests, last npc is tyrande in darnassus ...
+                "tyrande fam why the fuck did you help sally whitemane"
+                "i dont trust sylvanas lmao shes a bitch so we need all the allies we can muster"
     
+    items
+        mounts
+            now every flying, giant or other bs mount is exotic
+            exotic mounts cant be used in azeroth at all (no giant dragons blocking stormwind)
+            exotic mounts can be used in outland and northrend but can only fly in specific flying zones (storm peaks and netherstorm for instance), 
+            serve as some sort of attunement and gold sink
+        
     dungeons
+        prime: max level dungeons, pre-raid bis loot and cool profession supplies
+        mythic: 10-man prime dungeons, some low-tier raid boss equivalent gear, cool cosmetics, more droprate
+        
         deadmines
             on vancleef: instead of fighting him, you talk to him -- "this is unnecessary, vancleef, prestor manipulated you", you explain whats up
             a dragonspawn appears mad af and you guys (including vancleef) fight him as final boss
             its quest will give you a dragonbane scroll that you can use to seal its power and reduce his difficulty, if you don't use it its hardmode
+        
+        rfc
+            hungerer hardmode: kill last boss first (the satyr guy)
+            spawn pit lord in his place at 80% hp
+            pit lord casts howl of chaos 2sec channel, sends feared dumbasses to lava
             
-        prime: max level dungeons, pre-raid bis loot and cool profession supplies
-        mythic: 10-man prime dungeons, some low-tier raid boss equivalent gear, cool cosmetics, more droprate
+        scarlet monastery
+            give it more importance
+            whitemane not there (see quests)
     
     raids
         10 man n/h prime
@@ -94,6 +169,7 @@ website
         intent on non-aoe
         
         rated warsong gulch
+        
 learn
     creatures:
         x create
