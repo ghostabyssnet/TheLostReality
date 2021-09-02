@@ -5,6 +5,13 @@ videos
     replace the head with the character's speaking head as a loop (use wmv its ur problem,
     maybe export avi works?)
 
+tutorial lineup
+    working with db
+    (advanced) working with the "improved x" talent tree buffs
+    // when I understand wtf is going on
+    (advanced) addon handling
+    (advanced) advanced class stuff that I'll have to do
+    
 logging/carpentry
     world\generic\human\passive doodads\firewood\firewoodpile03.m2 as pickup
 
@@ -22,10 +29,20 @@ housing
     world\wmo\azeroth\collidable doodads\allianceshrine could be graveyard (like wc3)
     add dummies as well
     let players have pets laying around (friendly critters)
+    do whole item logic
+        remove from player when placed
+        add to player when picked up
+            DON'T LET THE PLAYER PICK IT UP IF HIS INVENTORY'S FULL
+    area logic
+        (maybe) add height limit for standard areas' player objects to avoid bullshitery
+        
     do peasant logic
         ally
         horde
     4990 stormwind test garrison areaID
+    place logic:
+        do not let object spawn if target zoneid is not owned by player
+        maybe dont let the player put thing if he's not on edit mode?
     wood
         node: world\generic\human\passive doodads\peasantlumber\peasantlumber01.m2
         or: world\generic\human\passive doodads\lumberpiles\deadminelumberpilesmall.m2
