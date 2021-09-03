@@ -35,10 +35,10 @@ housing
             DON'T LET THE PLAYER PICK IT UP IF HIS INVENTORY'S FULL
     area logic
         (maybe) add height limit for standard areas' player objects to avoid bullshitery
-        
     do peasant logic
         ally
         horde
+    remove mirror logic if tswow's next update allows player to cancel spawning the object 
     4990 stormwind test garrison areaID
     place logic:
         do not let object spawn if target zoneid is not owned by player
