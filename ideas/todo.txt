@@ -1,5 +1,7 @@
 todo:
 
+change to github project thing (automate it using csv)
+
 videos
     when characters speak, pull up warcraft 3's (literally that design) cinematic talk bar and
     replace the head with the character's speaking head as a loop (use wmv its ur problem,
@@ -39,6 +41,7 @@ housing
         ally
         horde
     remove mirror logic if tswow's next update allows player to cancel spawning the object 
+    work with models and try to make valheim-like building blocks
     4990 stormwind test garrison areaID
     place logic:
         do not let object spawn if target zoneid is not owned by player
