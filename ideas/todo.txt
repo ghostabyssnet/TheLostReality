@@ -1,13 +1,15 @@
 todo:
 
-change to github project thing (automate it using csv)
+x change to github project thing (automate it using csv)
+x // = already transfered to github
+finish transfering this to github issues
 
-videos
+//videos
     when characters speak, pull up warcraft 3's (literally that design) cinematic talk bar and
     replace the head with the character's speaking head as a loop (use wmv its ur problem,
     maybe export avi works?)
 
-tutorial lineup
+//tutorial lineup
     working with db
     (advanced) working with the "improved x" talent tree buffs
     // when I understand wtf is going on
@@ -26,8 +28,9 @@ housing
     ! do deletion/removal logic
         // temp gameobjects now get deleted, working on permanent ones
     add chair for alpha
-    change spell/item database to SQL
-    change logic to grab the SQL entries
+    ! change spell/item database to SQL
+    ! change logic to grab the SQL entries
+    to set rarity, simple use a tag in id ([prefix]-(tag)-id): TLRHousing-rare-greenbottle for instance
     world\wmo\azeroth\collidable doodads\allianceshrine could be graveyard (like wc3)
     add dummies as well
     let players have pets laying around (friendly critters)
