@@ -142,6 +142,8 @@ website
         [COMING ? SOON]
         
     lore
+        when sylvanas needs to square up with tyrande for some reason:
+            "where was your goddess when you needed the most?"
     
     zones
         quests
