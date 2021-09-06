@@ -1,0 +1,14 @@
+// quicktest for gameobjecttemplatecreate
+function quicktest(model: string, icon: string, id: string, name: string, type_t: number = 5) {
+    let entry = 3;
+    let displayid = 99;
+    let args = [];
+    for (let x = 0; x < arguments.length; x++) {
+        args[x] = stringToSql(arguments[x].toString());
+    }
+    args = ArgsSqlStr(args);
+    let query: string = 'INSERT INTO ' + db_gameobject_template + '(entry, id, displayid, icon, name, type) VALUES (' + entry + ',' + args[2] + ',' + displayid + ',' + args[1] + ',' + args[3] + ',' + type_t + ');';
+    console.log(query);
+}
+
+quicktest(bottle_green_t.model, bottle_green_t.icon, bottle_green_t.id, bottle_green_t.name);
