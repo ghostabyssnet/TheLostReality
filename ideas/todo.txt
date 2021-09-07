@@ -30,7 +30,6 @@ housing
     add chair for alpha
     ! change spell/item database to SQL
     ! change logic to grab the SQL entries
-    to set rarity, simple use a tag in id ([prefix]-(tag)-id): TLRHousing-rare-greenbottle for instance
     world\wmo\azeroth\collidable doodads\allianceshrine could be graveyard (like wc3)
     add dummies as well
     let players have pets laying around (friendly critters)
