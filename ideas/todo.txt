@@ -41,6 +41,7 @@ housing
             DON'T LET THE PLAYER PICK IT UP IF HIS INVENTORY'S FULL
     area logic
         (maybe) add height limit for standard areas' player objects to avoid bullshitery
+    peasants/followers from json as well
     do peasant logic
         ally
         horde
