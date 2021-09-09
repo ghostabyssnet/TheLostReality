@@ -46,6 +46,12 @@ housing
         ally
         horde
     x remove mirror logic if tswow's next update allows player to cancel spawning the object 
+    tft-like guild wars/any army in general stuff
+        maybe even let players fight with them anyway
+    guilds will need a mage npc and a portal object to do cross-continent wars
+    add mercenaries
+        stuff like defias for alliance
+        ogres for horde
     work with models and try to make valheim-like building blocks
     4990 stormwind test garrison areaID
     place logic:
@@ -166,6 +172,9 @@ website
             exotic mounts cant be used in azeroth at all (no giant dragons blocking stormwind)
             exotic mounts can be used in outland and northrend but can only fly in specific flying zones (storm peaks and netherstorm for instance), 
             serve as some sort of attunement and gold sink
+        
+        professions 
+            make it so reagents from older expansions are still relevant (copper/gold in outland, saronite in pandaria, for example)
         
     dungeons
         prime: max level dungeons, pre-raid bis loot and cool profession supplies
