@@ -28,8 +28,8 @@ housing
     ! do deletion/removal logic
         // temp gameobjects now get deleted, working on permanent ones
     add chair for alpha
-    create database for housing objects when server starts
-        load from json using loadhousingobjects(), port those to sql using housingobjectcreate()
+    x create database for housing objects when server starts
+        x load from json using loadhousingobjects(), port those to sql using housingobjectcreate()
     x change spell/item database to SQL
     x change logic to grab the SQL entries
     world\wmo\azeroth\collidable doodads\allianceshrine could be graveyard (like wc3)
@@ -45,7 +45,7 @@ housing
     do peasant logic
         ally
         horde
-    remove mirror logic if tswow's next update allows player to cancel spawning the object 
+    x remove mirror logic if tswow's next update allows player to cancel spawning the object 
     work with models and try to make valheim-like building blocks
     4990 stormwind test garrison areaID
     place logic:
