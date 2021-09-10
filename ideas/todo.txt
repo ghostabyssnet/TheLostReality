@@ -15,6 +15,35 @@ finish transfering this to github issues
     // when I understand wtf is going on
     (advanced) addon handling
     (advanced) advanced class stuff that I'll have to do
+
+-----------------------
+housing speedrun/crunch
+-----------------------
+
+database
+    ! mirror database
+    ! mirror creation
+    mirror livescripts
+        delete mirror on spawn
+        spawn original and creature instead
+    creature logic
+    mirror deletion (optional for now)
+    
+zones
+    housing zones
+    guild zones
+
+
+followers
+    base alliance and horde npcs
+    miners and other gatherers
+    race npcs
+    sellers and stuff
+    fight test
+    
+    maybe do a portal test (optional for now)
+
+website if we have time
     
 logging/carpentry
     world\generic\human\passive doodads\firewood\firewoodpile03.m2 as pickup
