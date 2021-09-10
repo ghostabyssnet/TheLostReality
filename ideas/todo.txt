@@ -21,12 +21,14 @@ housing speedrun/crunch
 -----------------------
 
 database
-    ! mirror database
-    ! mirror creation
-    mirror livescripts
-        delete mirror on spawn
+    x mirror database
+    x mirror creation
+    ! mirror livescripts
+        x delete mirror on spawn
         spawn original and creature instead
     creature logic
+        creature phasing for wisps... 
+        ... and builders
     mirror deletion (optional for now)
     
 zones
