@@ -29,6 +29,8 @@ database
     ! creature logic
         creature phasing for wisps... 
         ... and builders
+    tracking and deletion
+        do whole spawning method I guess
     mirror deletion (optional for now)
     
 items
