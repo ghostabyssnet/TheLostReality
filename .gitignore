@@ -6,3 +6,4 @@ node_modules/
 log.txt
 node.yml
 ideas/todo.csv
+dbinfo.json

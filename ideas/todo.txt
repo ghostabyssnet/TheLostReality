@@ -33,6 +33,15 @@ database
         do whole spawning method I guess
     mirror deletion (optional for now)
     
+persistence
+    do it from scratch, fuck it
+    
+    ignore optimization for now
+        spawn everything when server loads, who cares
+        hell even store everything in memory lmaooo
+    store stuff in a pseudo gameobject table (which you've already done)
+    change guids and stuff to uint64 (unsigned bigint)
+    
 items
     give housing items charges
     
