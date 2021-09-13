@@ -34,13 +34,13 @@ database
     mirror deletion (optional for now)
     
 persistence
-    do it from scratch, fuck it
+    ! do it from scratch
     
     ignore optimization for now
         spawn everything when server loads, who cares
         hell even store everything in memory lmaooo
     store stuff in a pseudo gameobject table (which you've already done)
-    change guids and stuff to uint64 (unsigned bigint)
+    x change guids and stuff to uint64 (unsigned bigint)
     
 items
     give housing items charges
