@@ -12,3 +12,85 @@ function quicktest(model: string, icon: string, id: string, name: string, type_t
 }
 
 quicktest(bottle_green_t.model, bottle_green_t.icon, bottle_green_t.id, bottle_green_t.name);
+
+/*
+class DEPRECATED extends TSClass {
+    guid: uint64;
+    templateid: uint32;
+    pos_x: float;
+    pos_y: float;
+    pos_z: float;
+    pos_o: float;
+    pos_map: uint32;
+    constructor(guid: uint64, templateid: uint32, pos_x: float, pos_y: float, pos_z: float, pos_o: float, pos_map: uint32) {
+        super();
+        this.guid = guid;
+        this.templateid = templateid;
+        this.pos_x = pos_x;
+        this.pos_y = pos_y;
+        this.pos_z = pos_z;
+        this.pos_o = pos_o;
+        this.pos_map = pos_map;
+    }
+// TODO: test this
+    static IsSpawned(map: TSMap, guid: uint64): boolean {
+        if (!map.GetWorldObject(300000).GetCreature(guid).GetGUID()) return false;
+        return true;
+    }
+
+    private SetGuid(guid: uint64) {
+        this.guid = guid;
+    }
+
+// TODO: test this
+    static IsRegistered(guid: uint64) : boolean {
+        let query: string = 'SELECT guid FROM ' + db_character_dummies + ' WHERE guid=' + guid + ';';
+        if (DEBUG) console.log(query);
+        let q: TSDatabaseResult = QueryCharacters(query);
+        while (q.GetRow())
+            if (q.GetUInt64(0)) return true;
+        return false;
+    }
+
+// TODO: test this
+    Register(ownerGuid: uint32) {
+        // TODO: delete/modify those when we add proper phase masking
+        // idk if spawn mask should be removed though (15 means spawn for any dungeon in any difficulty)
+        let spawnMask: uint8 = 15;
+        let phaseMask: uint16 = BASE_PHASEMASK;
+        if (DEBUG) console.log("HousingDummy::Register()");
+        let query: string = 'INSERT INTO ' + db_character_dummies + '(guid, templateId, instanceId, map, locx, locy, locz, loco) VALUES (' + ownerGuid + ',' + this.templateid + ',' + this.guid + ',' + this.pos_map + ',' + this.pos_x + ',' + this.pos_y + ',' + this.pos_z + ',' + this.pos_o + ');';
+        if (DEBUG) console.log(query);
+        QueryCharacters(query);
+    }
+// TODO: test this    
+    Spawn(map: TSMap) {
+        if (DEBUG) console.log("HousingDummy::Spawn()");
+        if (map.GetMapId() != this.pos_map) {
+            if (DEBUG) console.log("Error spawning HousingDummy " + this.guid + ": Map ID does not match database.");
+            return;
+        }
+        if (HousingDummy.IsSpawned(map, this.guid)) return;
+        // FIXME: #17 make this thing below not suck
+        let result = map.GetWorldObject(300000).SpawnCreature(this.templateid, this.pos_x, this.pos_y, this.pos_z, this.pos_o, 8, 0);
+        this.SetGuid(result.GetGUID());
+    }
+// TODO: test this
+    Despawn(map: TSMap) {
+        if (DEBUG) console.log("HousingDummy::Despawn()");
+        if (map.GetMapId() != this.pos_map) {
+            if (DEBUG) console.log("Error despawning HousingDummy " + this.guid + ": Map ID does not match database.");
+            return;
+        }
+        if (!HousingDummy.IsSpawned(map, this.guid)) return;
+        // TODO: improve this
+        map.GetWorldObject(300000).GetCreature(this.guid).DespawnOrUnsummon(100);
+    }
+// TODO: test this
+    Unregister() {
+        if (DEBUG) console.log("HousingDummy::Unregister()");
+        let query: string = 'DELETE FROM ' + db_character_dummies + ' WHERE instanceId=' + this.guid + ';';
+        if (DEBUG) console.log(query);
+        QueryCharacters(query);
+    }
+}*/

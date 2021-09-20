@@ -29,9 +29,11 @@ database
     ! creature logic
         creature phasing for wisps... 
         ... and builders
-    tracking and deletion
-        do whole spawning method I guess
+    ! tracking and deletion
+        ! do whole spawning method I guess
     x mirror deletion (untested)
+    API exposure
+        control using export functions
     
 persistence
     ! do it from scratch
