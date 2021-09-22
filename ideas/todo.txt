@@ -21,6 +21,7 @@ housing speedrun/crunch
 -----------------------
 
 database
+    !!! CHANGE GUIDS TO GUIDLOWS I guess !!!
     x mirror database
     x mirror creation
     x mirror livescripts
@@ -30,7 +31,8 @@ database
         creature phasing for wisps... 
         ... and builders
     ! tracking and deletion
-        ! do whole spawning method I guess
+        x do whole spawning method I guess
+        ! do deletion
     x mirror deletion (untested)
     API exposure
         control using export functions
@@ -40,7 +42,7 @@ persistence
     
     ignore optimization for now
         spawn everything when server loads
-    ! store stuff in a pseudo gameobject table (which you've already done)
+    x store stuff in a pseudo gameobject table (which you've already done)
     x change guids and stuff to uint64 (unsigned bigint)
     
 items
